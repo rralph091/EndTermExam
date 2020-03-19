@@ -1,0 +1,59 @@
+/*Text*/
+#b{
+	font-weight:bold;
+}
+
+#text{
+	padding: 20px;
+	background-color: #000;
+	color: white;
+	font-size: 20px;
+}
+/*Containers*/
+#container{
+	width: 80%;
+	margin: auto;
+	padding: 5% 0px;
+}
+
+.a1{
+	width: 50%;
+	height: 500px;
+	float: left;
+	padding: 10px;
+}
+
+.a2{
+	width: 50%;
+	height: 500px;
+	float: left;
+}
+
+#content2{
+	width: 100%;
+	height: 100px;
+	background: url("../img/bg.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow:hidden;
+}
+/*Images*/
+.img1{
+	width: 712px;
+	height: 466px;
+	float:right;
+	margin-right: 20%;
+	margin-top: 1.0%;
+}
+
+.imgScale{
+	width: 100%;
+	height: 100%;
+}
+.img2{
+	float:left;
+	margin-left: 20%;
+	margin-top: 2.5%;
+}
