@@ -71,6 +71,7 @@
 		<div id="foot">
 			<div id="tdContainer">
 				<?php include 'includes/footer.php';?>
+				<?php include ('sidebar.php'); ?>
 			</div>
 		</div>
 	</div>	
