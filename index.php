@@ -8,10 +8,10 @@
 </head>
 
 <body>
-	<?php include ('sidebar.php'); ?>
 	<div id="bound2">
 	
 		<div id="head">
+			<?php include ('sidebar.php'); ?>
 			<div id="banner">
 				<img id="logo" src="img/logo.png"/>
 			</div>
