@@ -54,10 +54,6 @@ h1 {
     <ul class="nav navbar-nav">
       <li class="active"><a href="index.php">HOME</a></li>
      <li> <a href="index.php?navigation=product">Products</a></li>
-     <li> <a href="index.php?navigation=categories">Category</a></li>
-     <li><a href="index.php?navigation=create">Create</a></li>
-      <li><a href ="Customer1.php">Contact us</a></li>
-     <li><a href="Addsup.Php">About us</a></li>
     </ul>
 </div>
   </div>
@@ -68,17 +64,8 @@ h1 {
           case 'product':
             require_once 'product.php';
             break;
-          case 'categories':
-            require_once 'categories.php';
-            break;
-          case 'create':
-            require_once 'form_create.php';
-            break;
           case 'details':
             require_once 'product-details.php';
-            break;
-          case 'delete':
-             require_once 'form-delete.php';
             break;
         }
     ?>
