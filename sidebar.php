@@ -48,7 +48,7 @@ h1 {
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
-    <a class="navbar-brand" href="index.php">ET No.1</a>
+    <a class="navbar-brand" href="index.php">EXAM</a>
   
   </div>
     <ul class="nav navbar-nav">
