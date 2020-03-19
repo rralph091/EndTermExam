@@ -8,6 +8,7 @@
 </head>
 
 <body>
+	<?php include ('sidebar.php'); ?>
 	<div id="bound2">
 	
 		<div id="head">
@@ -71,7 +72,7 @@
 		<div id="foot">
 			<div id="tdContainer">
 				<?php include 'includes/footer.php';?>
-				<?php include ('sidebar.php'); ?>
+	
 			</div>
 		</div>
 	</div>	
