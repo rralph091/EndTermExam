@@ -48,11 +48,6 @@ h1 {
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">  
-  </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="index.php">HOME</a></li>
-     <li> <a href="index.php?navigation=product">Products</a></li>
-    </ul>
 </div>
   </div>
 </nav>
