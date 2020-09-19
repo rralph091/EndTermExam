@@ -19,6 +19,7 @@
 				<a class="active" href="index.php">Home</a> 
 				<a href="page/about_us.php">About Us</a> 
 				<a href="page/services.php">Services</a> 
+				<a href="page/promo.php">Promo</a>
 				<a href="page/contact_us.php">Contact Us</a>
 			</div>
 		</div>
